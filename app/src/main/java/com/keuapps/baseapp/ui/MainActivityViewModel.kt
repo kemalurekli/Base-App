@@ -1,4 +1,4 @@
-package com.keuapps.baseapp
+package com.keuapps.baseapp.ui
 
 import androidx.lifecycle.ViewModel
 
